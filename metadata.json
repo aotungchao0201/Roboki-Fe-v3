@@ -1,0 +1,5 @@
+{
+  "name": "Roboki",
+  "description": "An AI chatbot application with a modern, light UI, featuring specialized tool chips for various tasks and an integrated Canvas studio for content generation.",
+  "requestFramePermissions": []
+}
